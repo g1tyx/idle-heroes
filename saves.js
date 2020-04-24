@@ -13,7 +13,7 @@
 function updatesaves(){
 	localStorage.setItem("money2", money);
 	localStorage.setItem("reputation2", reputation);
-	localStorage.setItem("damage2", damage);
+	localStorage.setItem("damage2", selfDamage);
 	localStorage.setItem("powermax2", powermax);
 	localStorage.setItem("monstermax", monstermax);
 	localStorage.setItem("selfupgrades", selfupgrades);
